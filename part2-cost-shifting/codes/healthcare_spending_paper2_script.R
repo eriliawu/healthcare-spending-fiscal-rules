@@ -37,4 +37,4 @@ summary(mod1)
 
 mod2 <- felm(inout_ratio~fr+debt_ratio+log(tot_hospital_beds)|as.factor(year)+as.factor(country),
              data=health)
-summary(mod2) # bad predictors
+summary(mod2)
