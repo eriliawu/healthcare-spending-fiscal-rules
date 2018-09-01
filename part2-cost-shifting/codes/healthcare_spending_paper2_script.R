@@ -38,3 +38,12 @@ summary(mod1)
 mod2 <- felm(inout_ratio~fr+debt_ratio+log(tot_hospital_beds)|as.factor(year)+as.factor(country),
              data=health)
 summary(mod2)
+
+# mod1 and mod2 dont work well
+# lack of statistical significance
+# lack of meaningful or intuitive explanation on coefficients
+# 1) try a time lag: 1 and 2 years
+# 2) add "healthcare system" to the regression as a covariate
+
+
+
