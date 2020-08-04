@@ -6,3 +6,14 @@ You can find our published paper [Fiscal rules, powerful levers for controlling 
 
 ## part 2 fiscal rules and cost shifting
 Part two of the study aims to dig deeper into what happens to public healthcare spending when fiscal rules kick in? If the government is not spending as much now, who's taking up the bills? We're developing several matrices to measure who eventually shoulders the burden of healthcare spending.
+
+Publications
+============
+
+#### A list of publications that resulted from this project.
+
+| Reference | Title | Link |
+| :-------  | :---- | :---- |
+| [![DOI:10.1186/s12889-018-5198-y](https://zenodo.org/badge/DOI/10.1186/s12889-018-5198-y.svg)](https://doi.org/10.1186/s12889-018-5198-y) | *Fiscal rules, powerful levers for controlling the health budget? Evidence from 32 OECD countries* | [Link][ref1]|
+
+[ref1]: https://link.springer.com/article/10.1186/s12889-018-5198-y
